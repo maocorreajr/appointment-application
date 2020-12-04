@@ -1462,17 +1462,6 @@
             <point key="canvasLocation" x="2976.8000000000002" y="755.9113300492611"/>
         </scene>
     </scenes>
-    <designables>
-        <designable name="N30-tf-cmZ">
-            <size key="intrinsicContentSize" width="57" height="33"/>
-        </designable>
-        <designable name="dNe-GK-Mfy">
-            <size key="intrinsicContentSize" width="35" height="32"/>
-        </designable>
-        <designable name="t3A-AM-x8o">
-            <size key="intrinsicContentSize" width="51" height="33"/>
-        </designable>
-    </designables>
     <inferredMetricsTieBreakers>
         <segue reference="5rk-nc-5H2"/>
         <segue reference="l0J-Tf-4bA"/>
